@@ -1,0 +1,64 @@
+{
+  "bins": [
+    {
+      "id": 1,
+      "name": "App fundamentals"
+    },
+    {
+      "id": 1,
+      "name": "User interface"
+    },
+    {
+      "id": 1,
+      "name": "Xamarin.Forms XAML"
+    },
+    {
+      "id": 1,
+      "name": "Platform features"
+    },
+    {
+      "id": 1,
+      "name": "Azure cloud services"
+    },
+    {
+      "id": 1,
+      "name": "Deployment & testing"
+    },
+    {
+      "id": 1,
+      "name": "Advanced concepts & internals"
+    },
+    {
+      "id": 1,
+      "name": "Android Platform-Specifics"
+    },
+    {
+      "id": 1,
+      "name": "Device Class"
+    },
+    {
+      "id": 1,
+      "name": "iOS Platform-Specifics"
+    },
+    {
+      "id": 1,
+      "name": "Native Views"
+    },
+    {
+      "id": 1,
+      "name": "Automate Testing with Visual Studio App Center"
+    },
+    {
+      "id": 1,
+      "name": "Improve App Performance"
+    },
+    {
+      "id": 1,
+      "name": "Publish iOS Applications"
+    },
+    {
+      "id": 1,
+      "name": "Publish Android Applications"
+    }
+  ]
+}
