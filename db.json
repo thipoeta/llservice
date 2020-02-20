@@ -2,63 +2,95 @@
   "bins": [
     {
       "id": 1,
-      "name": "App fundamentals"
+      "name": "Sales"
     },
     {
       "id": 1,
-      "name": "User interface"
+      "name": "Export"
     },
     {
       "id": 1,
-      "name": "Xamarin.Forms XAML"
+      "name": "Sales and marketing"
     },
     {
       "id": 1,
-      "name": "Platform features"
+      "name": "Accounting and Finance"
     },
     {
       "id": 1,
-      "name": "Azure cloud services"
+      "name": "Human Resources"
     },
     {
       "id": 1,
-      "name": "Deployment & testing"
+      "name": "Administration"
     },
     {
       "id": 1,
-      "name": "Advanced concepts & internals"
+      "name": "Production"
     },
     {
       "id": 1,
-      "name": "Android Platform-Specifics"
+      "name": "Logistics"
     },
     {
       "id": 1,
-      "name": "Device Class"
+      "name": "Operations & Maintenance"
     },
     {
       "id": 1,
-      "name": "iOS Platform-Specifics"
+      "name": "Research and Development"
+    }
+  ],
+  "docs": [
+    {
+      "id": 1,
+      "name": "From The Heart.mp3",
+      "author": "Thi Vo"
     },
     {
       "id": 1,
-      "name": "Native Views"
+      "name": "When You Say Nothing At All.mp3",
+      "author": "Tin Nguyen"
     },
     {
       "id": 1,
-      "name": "Automate Testing with Visual Studio App Center"
+      "name": "How Can You Mend A Broken Heart.mp3",
+      "author": "Thi Vo"
     },
     {
       "id": 1,
-      "name": "Improve App Performance"
+      "name": "In Our Lifetime.mp3",
+      "author": "Tin Nguyen"
     },
     {
       "id": 1,
-      "name": "Publish iOS Applications"
+      "name": "I Do (Cherish You).mp3",
+      "author": "Thi Vo"
     },
     {
       "id": 1,
-      "name": "Publish Android Applications"
+      "name": "Born To Cry.mp3",
+      "author": "Tin Nguyen"
+    },
+    {
+      "id": 1,
+      "name": "Ain't No Sunshine.mp3",
+      "author": "Thi Vo"
+    },
+    {
+      "id": 1,
+      "name": "You've Got A Way (Notting Hill Remix).mp3",
+      "author": "Tin Nguyen"
+    },
+    {
+      "id": 1,
+      "name": "Gimme Some Lovin.mp3",
+      "author": "Thi Vo"
+    },
+    {
+      "id": 1,
+      "name": "Notting Hill (Score).mp3",
+      "author": "Tin Nguyen"
     }
   ]
 }
