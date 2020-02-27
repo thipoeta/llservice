@@ -92,5 +92,87 @@
       "name": "Notting Hill (Score).mp3",
       "author": "Tin Nguyen"
     }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "JPMorgan Chase United States",
+    },
+    {
+      "id": 2,
+      "name": "China Construction Bank China",
+    },
+    {
+      "id": 3,
+      "name": "Agricultural Bank of China",
+    },
+    {
+      "id": 4,
+      "name": "Bank of America United States",
+    },
+    {
+      "id": 5,
+      "name": "Apple United States",
+    },
+    {
+      "id": 6,
+      "name": "Royal Dutch Shell Netherlands",
+    },
+    {
+      "id": 7,
+      "name": "Wells Fargo United States",
+    },
+    {
+      "id": 8,
+      "name": "Vietnam Airline",
+    },
+    {
+      "id": 9,
+      "name": "Samsung Electronics South Korea",
+    },
+    {
+      "id": 10,
+      "name": "Microsoft United States",
+    },
+    {
+      "id": 11,
+      "name": "Volkswagen Group Germany",
+    },
+    {
+      "id": 12,
+      "name": "Verizon Communications",
+    },
+    {
+      "id": 13,
+      "name": "HSBC Holdings",
+    },
+    {
+      "id": 14,
+      "name": "PetroChina",
+    },
+    {
+      "id": 15,
+      "name": "UnitedHealth Group",
+    },
+    {
+      "id": 16,
+      "name": "Daimler Germany",
+    },
+    {
+      "id": 17,
+      "name": "Johnson & Johnson",
+    },
+    {
+      "id": 18,
+      "name": "Bank of Communications",
+    },
+    {
+      "id": 19,
+      "name": "Citigroup",
+    },
+    {
+      "id": 20,
+      "name": "Berkshire Hathaway",
+    }
   ]
 }
